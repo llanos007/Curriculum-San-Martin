@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    
+}
+#banner{
+  display: flex;
+  width: 100%;
+  height: 50vh;
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#pefil{
+display: flex;
+align-items: flex-start;    
+justify-content: flex-start;
+flex-wrap: wrap;
+
+}
+.contacto{
+    list-style-type: none;
+}
+
